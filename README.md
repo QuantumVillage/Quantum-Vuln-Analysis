@@ -1,7 +1,7 @@
 # Quantum-Vuln-Analysis
 Repository for accompanying paper on quantum vulnerability analysis
 
-The paper can be found here: [L0NK!!]
+The paper can be found here: [https://arxiv.org/abs/2211.13740](https://arxiv.org/abs/2211.13740)
 
 ## Overview
 
