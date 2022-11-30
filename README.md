@@ -11,4 +11,6 @@ The random graph generator code was edited manually for each run, and the values
 
 ## Contributions
 
-No contributions will be accepted for this code as it is provided as-is as a record of the data runs to generate the results presented in the paper.
+The Notebook code is provided as-is as a record of the data runs to generate the results presented in the paper.
+
+However, given the interest in this work, we may be creating a small project to develop out these ideas! 
